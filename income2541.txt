@@ -1,0 +1,77 @@
+กรุงเทพมหานคร, 26054, Bangkok
+สมุทรปราการ, 18100, Samut Prakan
+นนทบุรี, 24211, Nonthaburi
+ปทุมธานี, 21793, Pathum Thani
+พระนครศรีอยุธยา,  12918, Phra Nakhon Si Ayutthaya
+อ่างทอง, 10878, Ang Thong
+ลพบุรี, 10587, Lop Buri
+สิงห์บุรี, 10786, Sing Buri
+ชัยนาท, 11159, Chai Nat
+สระบุรี, 13281, Saraburi
+ชลบุรี, 14075, Chon Buri
+ระยอง, 12491, Rayong
+จันทบุรี, 15548, Chanthaburi
+ตราด, 11703, Trat
+ฉะเชิงเทรา, 14010, Chachoengsao
+ปราจีนบุรี, 9852, Prachin Buri
+นครนายก, 11809, Nakhon Nayok
+สระแก้ว, 6958, Sa Kaeo
+ราชบุรี, 12868, Ratchaburi
+กาญจนบุรี, 13082, Kanchanaburi
+สุพรรณบุรี, 12409, Suphan Buri
+นครปฐม, 15178, Nakhon Pathom
+สมุทรสาคร, 17565, Samut Sakhon
+สมุทรสงคราม, 11540, Samut Songkhram
+เพชรบุรี, 14135, Phetchaburi
+ประจวบคีรีขันธ์, 10017, Prachuap Khiri Khan
+เชียงใหม่, 10349, Chiang Mai
+ลำพูน, 8722, Lamphun
+ลำปาง, 14177, Lampang
+อุตรดิตถ์, 10044, Uttaradit
+แพร่, 8522, Phrae
+น่าน, 7387, Nan
+พะเยา, 7491, Phayao
+เชียงราย, 8924, Chiang Rai
+แม่ฮ่องสอน, 5934, Mae Hong Son
+นครสวรรค์, 9500, Nakhon Sawan
+อุทัยธานี, 7887, Uthai Thani
+กำแพงเพชร, 9769, Kamphaeng Phet
+ตาก, 9423, Tak
+สุโขทัย 10475, Sukhothai
+พิษณุโลก, 12068, Phitsanulok
+พิจิตร, 11185, Phichit
+เพชรบูรณ์, 8051, Phetchabun
+นครราชสีมา, 9418, Nakhon Ratchasima
+บุรีรัมย์, 8365, Buri Ram
+สุรินทร์, 6398, Surin
+ศรีสะเกษ, 7669, Si Sa Ket
+อุบลราชธานี, 10267, Ubon Ratchathani
+ยโสธร, 7478, Yasothon
+ชัยภูมิ, 6220, Chaiyaphum
+อำนาจเจริญ, 8139, Amnat Charoen
+บึงกาฬ, 0, Bungkan
+หนองบัวลำภู, 8386, Nong Bua Lam Phu
+ขอนแก่น, 11521, Khon Kaen
+อุดรธานี, 7744, Udon Thani
+เลย, 9905, Loei
+หนองคาย, 12548, Nong Khai
+มหาสารคาม, 8444, Maha Sarakham
+ร้อยเอ็ด, 5987, Roi Et
+กาฬสินธุ์, 6908, Kalasin
+สกลนคร, 7660, Sakon Nakhon
+นครพนม, 7909, Nakhon Phanom
+มุกดาหาร, 9890, Mukdahan
+นครศรีธรรมราช, 11196, Nakhon Si Thammarat
+กระบี่, 11986, Krabi
+พังงา, 7650, Phangnga
+ภูเก็ต, 19313, Phuket
+สุราษฎร์ธานี, 11967, Surat Thani
+ระนอง, 9033, Ranong
+ชุมพร, 10232, Chumphon
+สงขลา, 15057, Songkhla
+สตูล, 8924, Satun
+ตรัง, 12973, Trang
+พัทลุง, 12315, Phattalung
+ปัตตานี, 10737, Pattani
+ยะลา, 7560, Yala
+นราธิวาส, 6281, Narathiwat

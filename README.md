@@ -1,6 +1,9 @@
 # ProjectAVG
 This project is part of subject Problem Solving in Information Technology (PSIT)
 
+# Sample Graph
+<img src="graph/year_region_chart.svg">
+
 ## Groupmember
 |<img src="img-member/guitar.jpg" width="120px" height="115px">|<img src="img-member/jaw.jpg" width="120px" height="130px">|<img src="img-member/jinny.jpg" width="120px" height="100px">|<img src="img-member/Ton.jpg" width="120px" height="120px">|
 |:---:|:---:|:---:|:---:|

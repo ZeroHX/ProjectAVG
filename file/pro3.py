@@ -11,7 +11,7 @@ import pandas as pd
 import pygal
 #from pygal.style import BlueStyle
 def main():
-    """ This graph is plot about A Average of income in each region on each year """ 
+    """ This graph is plot about A Average of income in each region on each year """
     df = pd.read_csv('income.csv', index_col='Region and province')
     #Transpose it to change index from (year>>region)
     tdf = df.T
@@ -65,6 +65,7 @@ def south(df, tdf):
         avg = sum(list(south.T[i])[1:])/len(list(south.T[i])[1:])
         lst.append(avg)
     graph(south_lst, lst, region)
+    print("Chart Successfully created !!")
 
 def graph(region, data, reg):
     """ Function plot graph """

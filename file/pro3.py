@@ -9,7 +9,7 @@ by  Jakkawan Intaratchaiyakij
 """
 import pandas as pd
 import pygal
-from pygal.style import DarkStyle
+#from pygal.style import BlueStyle
 def main():
     df = pd.read_csv('income.csv', index_col='Region and province')
     tdf = df.T
@@ -21,7 +21,7 @@ def main():
 def central(df, tdf):
     """ Data for Central Region """
     region = 'Central'
-    cen = df['Central Region':'Northern Region'][1:-2]
+    cen = df['Central Region':'Northern Region'][1:]
     cen_lst = list(cen.T)
     lst = []
     for i in cen_lst:
@@ -31,9 +31,9 @@ def central(df, tdf):
 
 
 def north(df, tdf):
-    """ Data for Northern Region """
+    """ Data for Northen Region """
     region = 'Northern'
-    north = df['Northern Region':'Northeastern Region'][1:-2]
+    north = df['Northern Region':'Northeastern Region'][1:]
     north_lst = list(north.T)
     lst = []
     for i in north_lst:
@@ -44,7 +44,7 @@ def north(df, tdf):
 def neast(df, tdf):
     """ Data for Northeastern Region """
     region = 'Northeastern'
-    neast = df['Northeastern Region':'Southern Region'][1:-2]
+    neast = df['Northeastern Region':'Southern Region'][1:]
     neast_lst = list(neast.T)
     lst = []
     for i in neast_lst:
@@ -55,7 +55,7 @@ def neast(df, tdf):
 def south(df, tdf):
     """ Data for Southern Region """
     region = 'Southern'
-    south = df['Southern Region':][1:-2]
+    south = df['Southern Region':][1:]
     south_lst = list(south.T)
     lst = []
     for i in south_lst:
@@ -65,7 +65,7 @@ def south(df, tdf):
 
 def graph(region, data, reg):
     """ Function plot graph """
-    line_chart = pygal.HorizontalBar(fill=True, interpolate='cubic', style=DarkStyle)
+    line_chart = pygal.HorizontalBar()
     line_chart.title = '%s Region Income average in each year' % reg
     for i in range(len(region)):
         line_chart.add(region[i], data[i])

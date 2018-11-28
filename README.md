@@ -1,7 +1,7 @@
 # ProjectAVG
 This project is part of subject Problem Solving in Information Technology (PSIT)
 
-# Sample Graph
+## Sample Graph
 <img src="graph/Northern.svg">
 
 ## Groupmember

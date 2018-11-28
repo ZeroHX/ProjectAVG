@@ -31,7 +31,7 @@ def central(df, tdf):
 
 
 def north(df, tdf):
-    """ Data for Central Region """
+    """ Data for Northern Region """
     region = 'Northern'
     north = df['Northern Region':'Northeastern Region'][1:-2]
     north_lst = list(north.T)
@@ -42,7 +42,7 @@ def north(df, tdf):
     graph(north_lst, lst, region)
 
 def neast(df, tdf):
-    """ Data for Central Region """
+    """ Data for Northeastern Region """
     region = 'Northeastern'
     neast = df['Northeastern Region':'Southern Region'][1:-2]
     neast_lst = list(neast.T)
@@ -53,7 +53,7 @@ def neast(df, tdf):
     graph(neast_lst, lst, region)
 
 def south(df, tdf):
-    """ Data for Central Region """
+    """ Data for Southern Region """
     region = 'Southern'
     south = df['Southern Region':][1:-2]
     south_lst = list(south.T)

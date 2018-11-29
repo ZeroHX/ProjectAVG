@@ -12,7 +12,7 @@ import pygal
 from pygal.style import BlueStyle
 def main():
     data = {}
-    df = pd.read_csv('income.csv', index_col='Region and province')
+    df = pd.read_csv('csv/income.csv', index_col='Region and province')
     tdf = df.T
     region = list(tdf)[1:]
     for i in region:

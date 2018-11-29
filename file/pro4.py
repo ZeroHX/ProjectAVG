@@ -24,7 +24,7 @@ def main():
 
     #create graph
     line_chart = pygal.HorizontalBar(fill=True, interpolate='cubic', style=BlueStyle)
-    line_chart.title = 'Top 10 highest AVG income'
+    line_chart.title = 'Top10 highest AVG income'
     for j in range(10):
         line_chart.add(data[j][0], data[j][1])
     line_chart.render_in_browser()

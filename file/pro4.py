@@ -22,9 +22,10 @@ def main():
     #Change from dict to tuple and sort it from value
     data = sorted(data.items(), key=lambda x: x[1], reverse=1)[:10]
 
-    #create graph
+    #Create graph
     line_chart = pygal.HorizontalBar(fill=True, interpolate='cubic', style=BlueStyle)
     line_chart.title = 'Top10 highest AVG income'
+    #Add bar(Top10 region)
     for j in range(10):
         line_chart.add(data[j][0], data[j][1])
     line_chart.render_in_browser()

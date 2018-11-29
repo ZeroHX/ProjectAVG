@@ -12,7 +12,7 @@ import pygal
 #from pygal.style import BlueStyle
 def main():
     """ This graph is plot about A Average of income in each region on each year """
-    df = pd.read_csv('income.csv', index_col='Region and province')
+    df = pd.read_csv('csv/income.csv', index_col='Region and province')
     #Transpose it to change index from (year>>region)
     tdf = df.T
     #Send Datafrme to function each Region

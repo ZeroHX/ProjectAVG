@@ -74,7 +74,7 @@ def graph(region, data, reg):
     for i in range(len(region)):
         line_chart.add(region[i], data[i])
     line_chart.render_in_browser()
-    line_chart.render_to_file('%s.svg' % reg)
+    line_chart.render_to_file('graph/%s.svg' % reg)
 
 
 main()

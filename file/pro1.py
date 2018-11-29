@@ -10,7 +10,7 @@ by Jakkawan Intaratchaiyakij
 import pandas as pd
 import pygal
 def main():
-    df = pd.read_csv('income.csv', index_col='Region and province')
+    df = pd.read_csv('csv/income.csv', index_col='Region and province')
     year = list(df)[1:]
     tdf = df.T
     north = list(tdf['Northern Region'])[1:]

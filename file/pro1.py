@@ -25,6 +25,6 @@ def main():
     line_chart.add('North', north)
     line_chart.add('NorthEast', neast)
     line_chart.add('South', south)
-    line_chart.render_to_file('graph/year_region_chart.svg')
+    line_chart.render_to_file('year_region_chart.svg')
     line_chart.render_in_browser()
 main()

@@ -12,7 +12,7 @@ import pygal
 from pygal.style import BlueStyle
 def main():
     data = {}
-    df = pd.read_csv('csv/income.csv', index_col='Region and province')
+    df = pd.read_csv('income.csv', index_col='Region and province')
     tdf = df.T
     region = list(tdf)[1:]
     for i in region:
@@ -29,6 +29,6 @@ def main():
     for j in range(10):
         line_chart.add(data[j][0], data[j][1])
     line_chart.render_in_browser()
-    line_chart.render_to_file('graph/top10_avg.svg')
+    line_chart.render_to_file('top10_avg.svg')
 main()
 

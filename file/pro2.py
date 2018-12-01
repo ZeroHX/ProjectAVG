@@ -24,7 +24,7 @@ def main():
         #tdf['Southern Region'][i]+tdf['Whole Kingdom'][i]))/len(list(df[i])[1:])
         chart.append(float('%.2f' % avg1))
     line_chart.add("Year", chart)
-    line_chart.render_to_file('graph/year_whole_chart.svg')
+    line_chart.render_to_file('year_whole_chart.svg')
     line_chart.render_in_browser()
 
 main()

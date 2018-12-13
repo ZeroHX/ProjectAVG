@@ -9,7 +9,7 @@ Project นี้มีวัตถุประสงค์จัดทำขึ
 ## Sample Graph
 <img src="graph/Northern.svg">
 
-## Groupmember
+## Author
 |<img src="img-member/guitar.jpg" width="120px" height="115px">|<img src="img-member/jaw.jpg" width="120px" height="130px">|<img src="img-member/Ton.jpg" width="120px" height="120px">|<img src="img-member/jinny.jpg" width="120px" height="100px">|
 |:---:|:---:|:---:|:---:|
 |[ZeroHX](https://github.com/ZeroHX)|[jowkha](https://github.com/jowkha)|[Suphasan](https://github.com/Suphasan)|[jinnygym](https://github.com/jinnygym)|

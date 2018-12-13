@@ -4,16 +4,17 @@
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="style.css">
         <title>Average income analysis</title>
 
         <!-- Bootstrap -->
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb"
-        crossorigin="anonymous">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-
+        PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb"
+            crossorigin="anonymous">
 
         <!-- Fullpage.js -->
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.9.5/jquery.fullpage.min.css" integrity="sha256-MWBJX/7o3UIX5sMN/izdthod08WoIcWN0HOP7/X8+48="
-        crossorigin="anonymous" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.9.5/jquery.fullpage.min.css" integrity="sha256-
+        MWBJX/7o3UIX5sMN/izdthod08WoIcWN0HOP7/X8+48="
+            crossorigin="anonymous" />
 
         <!-- Font-awesome -->
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -29,10 +30,209 @@
         <div id="fullpage">
             <div class="section text-center" id="heading">
                 <h1>Average income analysis</h1><br>
-                <p>____</p>
+                <p>This project is part of Problem Solving in Information Technology, KMITL</p>
             </div>
             <div class="section text-center" id="dataset">
                 <h1>Data</h1>
+                <h2>Dataset: 
+                    <a href="https://data.go.th/DatasetDetail.aspx?id=7049410f-5bb8-4c75-9e94-112ca18b63e2&AspxAutoDetectCookieSupport=1">รายได้เฉลี่ยต่อเดือนต่อครัวเรือน จำแนกตามภาค และจังหวัด พ.ศ. 2541 - 2558</a>
+                </h2>
+            </div>
+            <div class="section text-center" id="chart-title">
+                <h1>Topic #1</h1>
+                <br>
+                <h2>Year whole (รายได้เฉลี่ยครัวเรือนประเทศไทยเทียบแต่ละปี)</h2>
+            </div>
+            <div class="section chart-content">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="content-title">จำนวนรายได้เฉลี่ยครัวเรือนประเทศไทยเทียบแต่ละปี</h1>
+                        <br />
+                    </div>
+                </div>
+                <div class="row-content">
+                    <div class="col-lg-7 col-xl-7 chart-svg">
+                        <embed type="image/svg+xml" src="asset/graph/year_whole_chart.svg" />
+                    </div>
+                    <div class="col-lg-5 col-xl-5">
+                        <p class="lead">
+                            จากกราฟจะเห็นว่ารายได้เฉลี่ยครัวเรือนของประเทศไทยในแต่ละปีลดลงแค่ช่วงปี 2541-2543 และเพิ่มสูงขึ้นทุกปีตั้งแต่ปี 2543 เป็นต้น
+                            มาทำให้เห็นว่าในปีต่อๆไปจะมีแนวโน้มเพิ่มสูงขึ้นเรื่อยๆในอัตราเฉลี่ยที่เพิ่มมากขึ้นทีละนิดๆ จนอาจจะมากกว่ารายได้เฉลี่ยปี 2547-2549
+                            ที่มีรายได้เฉลี่ยเพิ่มขึ้นมากที่สุดประมาณเกือบ 3000 บาท
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="section text-center" id="chart-title">
+                <h1>Topic #2</h1>
+                <br>
+                <h2>Year Region (ค่ารายได้เฉลี่ยครัวเรือนใน 4 ภาคเทียบแต่ละปี)</h2>
+            </div>
+            <div class="section chart-content">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="content-title">จำนวนรายได้เฉลี่ยครัวเรือนใน 4 ภาคเทียบแต่ละปี</h1>
+                        <br/>
+                    </div>
+                    <div class="row-content">
+                        <div class="col-lg-7 col-xl-7 chart-svg">
+                            <embed type="image/svg+xml" src="asset/graph/year_region_chart.svg" />
+                        </div>
+                        <div class="col-lg-5 col-xl-5">
+                            <p class="lead">
+                                จากกราฟค่ารายได้เฉลี่ยส่วนใหญ่ของแต่ละภาคเพิ่มขึ้นมากกว่าลดลง
+                            </p>
+                            <p class="lead">
+                                    - ภาคกลางมีค่ารายได้เฉลี่ยลดลงในปี 2549-2550 และ 2552-2554 
+                                    นอกนั้นเพิ่มขึ้นประมาณ 1000-2000 บาทต่อปี ยกเว้นปี 2554-2556 เพิ่มขึ้นมากถึงเกือบ 6000 บาท
+                            </p>
+                            <p class="lead">
+                                    -	ภาคเหนือค่ารายได้เฉลี่ยต่อครัวเรือนขึ้นลงไม่แน่นอน ค่ารายได้เฉลี่ยลดลงในปี 2541-2543
+                                     และลดลงอีกครั้งในปี 2556-2558 โดยอัตราการเพิ่มขึ้นและลดลงอยู่ในช่วง 500-1500 บาทต่อปี
+                            </p>
+                            <p class="lead">
+                                    -	ภาคอีสานมีค่ารายได้เฉลี่ยลดลงในช่วงปี 2541-2543 
+                                    และเพิ่มขึ้นเรื่อยๆในแต่ละปีโดยอัตราเพิ่มขึ้นและลดลงประมาณ 500-1500 บาทต่อปี
+                            </p>
+                            <p class="lead">
+                                    -	ภาคใต้ค่ารายได้เฉลี่ยลดลงในปี 2541-2543 และลดลงอีกครั้งในปี 2556-2558 
+                                    และมีอัตรารายได้เพิ่มสูงขึ้นแบบก้าวกระโดด โดยมีค่ารายได้เฉลี่ยต่อปีห่างกันมาสุดเกือบ 6000 บาท
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="section chart-content">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="content-title">จำนวนรายได้เฉลี่ยครัวเรือนใน 4 ภาคเทียบแต่ละปี</h1>
+                        <br/>
+                    </div>
+                    <div class="row-content">
+                        <div class="col-lg-7 col-xl-7 chart-svg">
+                            <embed type="image/svg+xml" src="asset/graph/year_region_chart.svg" />
+                        </div>
+                        <div class="col-lg-5 col-xl-5">
+                            <p class="lead"><strong>โดยรวม</strong> 
+                                ส่วนใหญ่ในแต่ละภาคจะมีอัตราค่ารายได้เฉลี่ยลดลงในปี 2541-2543 และเพิ่มขึ้นเรื่อยๆ 
+                                ช่วงแรกๆภาคกลางจะมีค่ารายได้เฉลี่ยมากที่สุด ช่วงหลังภาคใต้จะมีค่ารายได้เฉลี่ยที่เพิ่มมากขึ้นจนเลยภาคกลาง 
+                                ส่วนภาคเหนือและภาคใต้มีค่ารายได้เฉลี่ยที่ใกล้เคียงกัน
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="section text-center" id="chart-title">
+                <h1>Topic #3</h1>
+                <br>
+                <h2>Top 10 (ค่ารายได้เฉลี่ยต่อครัวเรือนเทียบทุกปีที่สูงสุด 10 อันดับแรก)</h2>
+            </div>
+            <div class="section chart-content">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="content-title">จำนวนรายได้เฉลี่ยต่อครัวเรือนเทียบทุกปีที่สูงสุด 10 อันดับแรก</h1>
+                        <br />
+                    </div>
+                    <div class="row-content">
+                        <div class="col-lg-7 col-xl-7 chart-svg">
+                            <embed type="image/svg+xml" src="asset/graph/top10_avg.svg" />
+                        </div>
+                        <div class="col-lg-5 col-xl-5">
+                            <p class="lead">
+                                    กรุงเทพและมีค่ารายได้เฉลี่ยสูงสุดเป็นอันดับแรก และอันดับสองรองลงมา 
+                                    อันดับที่สามและสี่คือ นนทบุรี และภูเก็ต ซึ่ง 4 อันดับแรกที่มีค่ารายได้เฉลี่ยสูงสุดเป็นที่รู้จักกันดีในเมืองท่องเที่ยว 
+                                    ทำให้รายเฉลี่ยต่อครัวเรือนค่อนข้างสูง 
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="section text-center" id="chart-title">
+                <h1>Topic #4</h1>
+                <br>
+                <h2>ค่ารายได้เฉลี่ยครัวเรือนของแต่ละจังหวัดในแต่ละภูมิภาค</h2>
+            </div>
+            <div class="section chart-content">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="content-title">Central (ภาคกลาง)</h1>
+                        <br />
+                    </div>
+                    <div class="row-content">
+                        <div class="col-lg-7 col-xl-7 chart-svg">
+                            <embed type="image/svg+xml" src="asset/graph/Central.svg" />
+                        </div>
+                        <div class="col-lg-5 col-xl-5">
+                            <p class="lead">
+                                    3 จังหวัดแรกที่ค่ารายได้เฉลี่ยมากสุดคือ กรุงเทพ นนทบุรี และ ปทุมธานี 
+                                    ซึ่งเป็นเมืองแห่งการค้าขายเป็นส่วนใหญ่ จังหวัดกรุงเทพมีค่ารายได้เฉลี่ยอยู่ที่ประมาณ 36000 บาท 
+                                    ซึ่งมากที่สุดในภาคกลาง 
+                                    และจังหวัดที่มีค่ารายได้เฉลี่ยน้อยสุดคือ จังหวัดสระแก้ว ค่ารายได้เฉลี่ยอยู่ที่ประมาณ 15000 บาท
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="section chart-content">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="content-title">Northeastern (ภาคอีสาน)</h1>
+                        <br />
+                    </div>
+                    <div class="row-content">
+                        <div class="col-lg-7 col-xl-7 chart-svg">
+                            <embed type="image/svg+xml" src="asset/graph/Northeastern.svg" />
+                        </div>
+                        <div class="col-lg-5 col-xl-5">
+                            <p class="lead">
+                                    3 จังหวัดแรกที่มีค่ารายได้เฉลี่ยมากที่สุดคือ อุดรธานี นครราชสีมา และ มหาสารคาม ซึ่งอุดรธานีมีค่ารายได้เฉลี่ยประมาณ 15400 บาท 
+                                    และจังหวัดที่มีค่ารายได้เฉลี่ยน้อยที่สุดคือ บึงกาฬ ค่ารายได้เฉลี่ยประมาณ 4400 บาท 
+                                    เนื่องจากบึงกาฬเป็นจังหวัดที่พึ่งก่อตั้งขึ้นใหม่ด้วยจึงทำให้มีค่ารายได้เฉลี่ยต่อครัวเรือนน้อย
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="section chart-content">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="content-title">Northern (ภาคเหนือ)</h1>
+                        <br />
+                    </div>
+                    <div class="row-content">
+                        <div class="col-lg-7 col-xl-7 chart-svg">
+                            <embed type="image/svg+xml" src="asset/graph/Northern.svg" />
+                        </div>
+                        <div class="col-lg-5 col-xl-5">
+                            <p class="lead">
+                                    3 จังหวัดแรกที่มีค่ารายได้เฉลี่ยมากที่สุดคือ กำแพงเพชร ลำปาง และ พิจิตร 
+                                    ซึ่งกำแพงเพชรมีค่ารายได้เฉลี่ยอยู่ที่ประมาณ 15700 บาท และ ลำปางซึ่งเป็นอันดับที่สองอยู่ที่ประมาณ 15500 บาท ไม่ต่างกันมาก 
+                                    และจังหวัดที่มีค่ารายได้เฉลี่ยน้อยที่สุดคือ แม่ฮ่องสอน มีค่ารายได้เฉลี่ยอยู่ที่ประมาณ  8200 บาท 
+                                    ภูมิประเทศของแม่ฮ่องสอนส่วนใหญ่เป็นธรรมชาติ และอยู่ห่างไกลจากตัวเมืองพอสมควร
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="section chart-content">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="content-title">Southern (ภาคใต้)</h1>
+                        <br />
+                    </div>
+                    <div class="row-content">
+                        <div class="col-lg-7 col-xl-7 chart-svg">
+                            <embed type="image/svg+xml" src="asset/graph/Southern.svg" />
+                        </div>
+                        <div class="col-lg-5 col-xl-5">
+                            <p class="lead">
+                                    3 จังหวัดแรกที่มีค่ารายได้เฉลี่ยสูงสุดคือ ภูเก็ต สุราษฎร์ธานี และตรัง โดยภูเก็ตมีค่ารายได้เฉลี่ยประมาณ 26000 บาท 
+                                    ซึ่งภูเก็ตเป็นเมืองท่องเที่ยวอันดับต้นๆ ทำให้มีค่ารายได้เฉลี่ยต่อครัวเรือนสูง 
+                                    และจังหวัดที่มีค่ารายได้เฉลี่ยน้อยสุดคือ นราธิวาส มีค่ารายได้เฉลี่ยประมาณ 12000 บาท
+                            </p>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
 

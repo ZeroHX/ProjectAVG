@@ -1,5 +1,6 @@
 # ProjectAVG
-This project is part of subject Problem Solving in Information Technology (PSIT)
+This project is part of subject Problem Solving in Information Technology (PSIT)<br><br>
+[<img src="Other img/IT_kmitl (1).png">](http://www.it.kmitl.ac.th)
 
 ## Objective
 Project นี้มีวัตถุประสงค์จัดทำขึ้นเพื่อให้ผู้ที่สนใจได้ศึกษา วิเคราะห์ข้อมูลเกี่ยวกับรายได้เฉลี่ยต่อเดือน - ต่อครัวเรือน จำแนกตามภาค และจังหวัด พ.ศ. 2541 - 2558

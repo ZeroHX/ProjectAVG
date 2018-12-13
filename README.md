@@ -9,7 +9,7 @@ Project นี้มีวัตถุประสงค์จัดทำขึ
 
 ## Sample Graph
 
-<embed type="image/svg+xml" src="graph/Northern.svg" />
+<img src="graph/Northern.svg">
 
 ## Author
 |<img src="img-member/guitar.jpg" width="120px" height="115px">|<img src="img-member/jaw.jpg" width="120px" height="130px">|<img src="img-member/Ton.jpg" width="120px" height="120px">|<img src="img-member/jinny.jpg" width="120px" height="100px">|

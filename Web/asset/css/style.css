@@ -5,17 +5,18 @@ body {
 }
 
 #heading {
-    background: url('##EDIT##');
-    background-color: #383838;
+    background: url('../asset/image/Policy-Basic-Income-01.PNG');
+    background-color: #3AAFA9;
     background-size: cover;
     background-position: center;
-    color: rgb(33, 221, 16);
+    color: #17252A;
 }
 
 #heading h1 {
     font-size: 5em;
     font-weight: 600;
     text-decoration: underline;
+    color: #FeFFFF;
 }
 
 #heading p {
@@ -25,16 +26,17 @@ body {
 
 #dataset {
     background: url('../images/dataset.jpg');
-    background-color: #383838;
+    background-color: #494e5c;
     background-size: cover;
     background-position: center;
-    color: rgb(65, 16, 243);
+    color: rgb(255, 255, 255);
 }
 
 #dataset h1 {
     font-size: 5em;
     font-weight: 600;
     text-decoration: underline;
+    color: rgb(47, 209, 201);
 }
 
 #dataset h2 {
@@ -53,12 +55,12 @@ body {
 }
 
 #dataset h2 a:hover {
-    color: #ee0;
+    color: #3AAFA9;
     text-decoration: underline;
 }
 
 #chart-title {
-    background-color: #383838;
+    background-color: #272727;
     color: #fff;
 }
 
@@ -66,6 +68,7 @@ body {
     font-size: 6em;
     font-weight: 600;
     text-decoration: underline;
+    color: #14A76C
 }
 
 #chart-title h2 {
@@ -78,8 +81,8 @@ body {
 }
 
 .chart-content {
-    background-color: #383838;
-    color: #fff;
+    background-color: #1e221d;
+    color: rgb(248, 240, 229);
 }
 
 .content {
@@ -92,13 +95,18 @@ body {
 }
 
 .content-title {
-    color: #fff;
+    color: #FFE400;
     text-decoration: underline;
 }
 
 .lead {
     text-align: justify;
     font-size: 1.3em;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
 }
 
 .section-tools {

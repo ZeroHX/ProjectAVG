@@ -2,7 +2,7 @@
 <h1 id='top' style="font-size:500px;">:money_with_wings: Project AVG :money_with_wings:</h1>
 
 This project is part of subject Problem Solving in Information Technology (PSIT)<br>
-:school: Faculty of Information Technology, King Mongkut's Institute of Technology Ladkrabang (KMITL).<br><br>
+Faculty of Information Technology, King Mongkut's Institute of Technology Ladkrabang (KMITL).<br><br>
 [<img src="Other img/IT_kmitl (1).png">](http://www.it.kmitl.ac.th)
 <br><br><br><br>
 [![obj](https://img.shields.io/badge/Goto-Objective-red.svg)](#obj)
@@ -32,6 +32,6 @@ Project นี้มีวัตถุประสงค์จัดทำขึ
 * Dataset: [รายได้เฉลี่ยต่อเดือนต่อครัวเรือน จำแนกตามภาค และจังหวัด พ.ศ. 2541 - 2558](https://data.go.th/DatasetDetail.aspx?id=7049410f-5bb8-4c75-9e94-112ca18b63e2) 
 
   [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/downloads/release/python-371/)
-
+     [![py](https://img.shields.io/badge/Pandas-2.7.5-orange.svg?style=social)](#top)
 <br><br><br>
 [![top](https://img.shields.io/badge/Goto-top-orange.svg?style=for-the-badge)](#top)

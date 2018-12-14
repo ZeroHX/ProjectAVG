@@ -172,7 +172,7 @@ ul.social-buttons li a {
     color: white;
     border-radius: 100%;
     outline: none;
-    background-color: #212529;
+    background-color: #f73636;
 }
 ul.social-buttons li a:active,
 ul.social-buttons li a:focus,
@@ -186,7 +186,10 @@ ul.social-buttons li a:hover {
 }
 
 .team-member img {
+    min-width: 160px;
+    min-height: 150px;
     max-width: 150px;
+    max-height: 150px;
     margin-bottom: 1em;
 }
 

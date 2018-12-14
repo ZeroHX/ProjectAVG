@@ -4,7 +4,7 @@
 This project is part of subject Problem Solving in Information Technology (PSIT)<br>
 :school: Faculty of Information Technology, King Mongkut's Institute of Technology Ladkrabang (KMITL).<br><br>
 [<img src="Other img/IT_kmitl (1).png">](http://www.it.kmitl.ac.th)
-<br><br><br>
+<br><br><br><br>
 [![obj](https://img.shields.io/badge/Goto-Objective-red.svg)](#obj)
 [![graph](https://img.shields.io/badge/Goto-Graph-blue.svg)](#graph)
 [![author](https://img.shields.io/badge/Goto-Author-pink.svg)](#author)

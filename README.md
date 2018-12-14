@@ -8,7 +8,7 @@ Faculty of Information Technology, King Mongkut's Institute of Technology Ladkra
 [![obj](https://img.shields.io/badge/Goto-Objective-red.svg)](#obj)
 [![graph](https://img.shields.io/badge/Goto-Graph-blue.svg)](#graph)
 [![author](https://img.shields.io/badge/Goto-Author-pink.svg)](#author)
-[![cr](https://img.shields.io/badge/Goto-Credits-green.svg)](#cr)
+[![cr](https://img.shields.io/badge/Goto-Credits-green.svg)](#cr)<br>
 
 <h2 id='obj'>Objective :dart:</h2> 
 

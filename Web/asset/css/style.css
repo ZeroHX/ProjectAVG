@@ -6,26 +6,25 @@ body {
 
 #heading {
     background: url('../image/heading.jpg');
-    background-color: #3AAFA9;
     background-size: cover;
     background-position: center;
-    color: #17252A;
+    color: rgb(40, 138, 21);
 }
 
 #heading h1 {
-    font-size: 5em;
+    font-size: 6.5em;
     font-weight: 600;
     text-decoration: underline;
-    color: #FeFFFF;
+    color: rgb(0, 0, 0);
 }
 
 #heading p {
     font-size: 2em;
-    font-weight: 300;
+    font-weight: 500;
 }
 
 #dataset {
-    background: url('../image/dataset.jpg');
+    background: url('../images/dataset.jpg');
     background-color: #494e5c;
     background-size: cover;
     background-position: center;
@@ -33,7 +32,7 @@ body {
 }
 
 #dataset h1 {
-    font-size: 5em;
+    font-size: 6em;
     font-weight: 600;
     text-decoration: underline;
     color: rgb(47, 209, 201);
@@ -47,14 +46,16 @@ body {
 #dataset h3 {
     font-size: 3em;
     font-weight: 500;
+    color: rgb(47, 209, 201);
 }
 
-#dataset h2 a {
+#dataset h4 a {
+    font-size: 1.5em;
     color: #fff;
     text-decoration: underline;
 }
 
-#dataset h2 a:hover {
+#dataset h4 a:hover {
     color: #3AAFA9;
     text-decoration: underline;
 }
@@ -112,6 +113,12 @@ body {
 }
 
 .content-title {
+    color: #FFE400;
+    text-decoration: underline;
+}
+
+.conclusion-title {
+    font-size: 3.5em;
     color: #FFE400;
     text-decoration: underline;
 }

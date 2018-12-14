@@ -5,10 +5,10 @@ body {
 }
 
 #heading {
-    background: url('../image/heading.jpg');
+    background: url('../image/heading3.1.jpg');
     background-size: cover;
-    background-position: center;
-    color: rgb(40, 138, 21);
+    background-position: left;
+    color: rgb(0, 0, 0);
 }
 
 #heading h1 {
@@ -19,44 +19,45 @@ body {
 }
 
 #heading p {
-    font-size: 2em;
+    font-size: 2.5em;
     font-weight: 500;
 }
 
 #dataset {
-    background: url('../images/dataset.jpg');
+    background: url('../image/dataset3.jpg');
     background-color: #494e5c;
     background-size: cover;
     background-position: center;
-    color: rgb(255, 255, 255);
+    color: rgb(12, 12, 12);
 }
 
 #dataset h1 {
     font-size: 6em;
     font-weight: 600;
     text-decoration: underline;
-    color: rgb(47, 209, 201);
+    color: rgb(46, 1, 40);
 }
 
-#dataset h2 {
-    font-size: 4em;
+#dataset h2 a {
+    font-size: 2em;
     font-weight: 500;
+    color: rgb(255, 163, 25);
 }
 
 #dataset h3 {
     font-size: 3em;
-    font-weight: 500;
-    color: rgb(47, 209, 201);
+    font-weight: 550;
+    color: rgb(27, 55, 116);
 }
 
 #dataset h4 a {
     font-size: 1.5em;
-    color: #fff;
+    color: rgb(0, 0, 0);
     text-decoration: underline;
 }
 
 #dataset h4 a:hover {
-    color: #3AAFA9;
+    color: rgb(44, 29, 179);
     text-decoration: underline;
 }
 
@@ -78,20 +79,79 @@ body {
 }
 
 #chart-title {
-    background-color: #272727;
-    color: #fff;
+    background: url('../image/blue.1.jpg');
+    background-size: cover;
+    background-position: left;
+    color: rgb(0, 0, 0);
 }
 
 #chart-title h1 {
     font-size: 6em;
     font-weight: 600;
     text-decoration: underline;
-    color: #14A76C
+    color: rgb(8, 1, 110)
 }
 
 #chart-title h2 {
     font-size: 2.5em;
-    font-weight: 400;
+    font-weight: 500;
+}
+
+#chart-title_2 {
+    background: url('../image/white.jpg');
+    background-size: cover;
+    background-position: right;
+    color: rgb(247, 115, 247);
+}
+
+#chart-title_2 h1 {
+    font-size: 6em;
+    font-weight: 600;
+    text-decoration: underline;
+    color: rgb(20, 20, 20)
+}
+
+#chart-title_2 h2 {
+    font-size: 2.5em;
+    font-weight: 500;
+}
+
+#chart-title_3 {
+    background: url('../image/pink.jpg');
+    background-size: cover;
+    background-position: left;
+    color: rgb(0, 0, 0);
+}
+
+#chart-title_3 h1 {
+    font-size: 6em;
+    font-weight: 600;
+    text-decoration: underline;
+    color: rgb(197, 38, 38)
+}
+
+#chart-title_3 h2 {
+    font-size: 2.5em;
+    font-weight: 500;
+}
+
+#chart-title_4 {
+    background: url('../image/green.jpg');
+    background-size: cover;
+    background-position: center;
+    color: rgb(0, 0, 0);
+}
+
+#chart-title_4 h1 {
+    font-size: 6em;
+    font-weight: 600;
+    text-decoration: underline;
+    color: rgb(52, 250, 26)
+}
+
+#chart-title_4 h2 {
+    font-size: 2.5em;
+    font-weight: 500;
 }
 
 .chart-svg {

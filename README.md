@@ -1,14 +1,14 @@
 
-<h1 id='top'>Project AVG</h1>
+<h1 id='top' style="font-size:500px;">:money_with_wings: Project AVG :money_with_wings:</h1>
 
 This project is part of subject Problem Solving in Information Technology (PSIT)<br>
 :school: Faculty of Information Technology, King Mongkut's Institute of Technology Ladkrabang (KMITL).<br><br>
 [<img src="Other img/IT_kmitl (1).png">](http://www.it.kmitl.ac.th)
-
-[![obj](https://img.shields.io/badge/Goto-Objective-red.svg)](#obj)<br>
-[![graph](https://img.shields.io/badge/Goto-Graph-blue.svg)](#graph)<br>
-[![author](https://img.shields.io/badge/Goto-Author-pink.svg)](#author)<br>
-[![cr](https://img.shields.io/badge/Goto-Credits-green.svg)](#cr)<br>
+<br><br><br>
+[![obj](https://img.shields.io/badge/Goto-Objective-red.svg)](#obj)
+[![graph](https://img.shields.io/badge/Goto-Graph-blue.svg)](#graph)
+[![author](https://img.shields.io/badge/Goto-Author-pink.svg)](#author)
+[![cr](https://img.shields.io/badge/Goto-Credits-green.svg)](#cr)
 
 <h2 id='obj'>Objective :dart:</h2> 
 

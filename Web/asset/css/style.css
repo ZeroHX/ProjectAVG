@@ -59,6 +59,23 @@ body {
     text-decoration: underline;
 }
 
+#conclusion-title {
+    background-color: #443d38;
+    color: #fff;
+}
+
+#conclusion-title h1 {
+    font-size: 6em;
+    font-weight: 600;
+    text-decoration: underline;
+    color: rgb(224, 41, 35)
+}
+
+#conclusion-title h2 {
+    font-size: 2.5em;
+    font-weight: 400;
+}
+
 #chart-title {
     background-color: #272727;
     color: #fff;
@@ -102,6 +119,11 @@ body {
 .lead {
     text-align: justify;
     font-size: 1.3em;
+}
+
+.lead_c {
+    text-align: justify;
+    font-size: 1.6em;
 }
 
 .img-fluid {

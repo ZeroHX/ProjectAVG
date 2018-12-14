@@ -25,5 +25,4 @@ Project นี้มีวัตถุประสงค์จัดทำขึ
 
   [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/downloads/release/python-371/)
 
-<a href='#top'>Go to top</a>
 [![top](https://img.shields.io/badge/Goto-top-green.svg?style=for-the-badge)](#top)

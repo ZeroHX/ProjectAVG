@@ -62,19 +62,21 @@ body {
 }
 
 #conclusion-title {
-    background-color: #443d38;
+    background: url('../image/conclusion2.jpg');
+    background-size: cover;
+    background-position: center;
     color: #fff;
 }
 
 #conclusion-title h1 {
-    font-size: 6em;
+    font-size: 6.5em;
     font-weight: 600;
     text-decoration: underline;
-    color: rgb(224, 41, 35)
+    color: rgb(255, 255, 255)
 }
 
 #conclusion-title h2 {
-    font-size: 2.5em;
+    font-size: 3em;
     font-weight: 400;
 }
 
@@ -101,14 +103,14 @@ body {
     background: url('../image/white.jpg');
     background-size: cover;
     background-position: right;
-    color: rgb(247, 115, 247);
+    color: rgb(20, 20, 20)
 }
 
 #chart-title_2 h1 {
     font-size: 6em;
     font-weight: 600;
     text-decoration: underline;
-    color: rgb(20, 20, 20)
+    color: rgb(243, 95, 243);
 }
 
 #chart-title_2 h2 {
@@ -146,7 +148,7 @@ body {
     font-size: 6em;
     font-weight: 600;
     text-decoration: underline;
-    color: rgb(52, 250, 26)
+    color: rgb(22, 214, 22)
 }
 
 #chart-title_4 h2 {
@@ -173,13 +175,13 @@ body {
 }
 
 .content-title {
-    color: #FFE400;
+    color: rgb(255, 255, 255);
     text-decoration: underline;
 }
 
 .conclusion-title {
     font-size: 3.5em;
-    color: #FFE400;
+    color: rgb(248, 248, 248);
     text-decoration: underline;
 }
 

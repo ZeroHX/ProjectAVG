@@ -4,7 +4,10 @@
 This project is part of subject Problem Solving in Information Technology (PSIT)<br>
 Faculty of Information Technology, King Mongkut's Institute of Technology Ladkrabang (KMITL).<br><br>
 [<img src="Other img/IT_kmitl (1).png">](http://www.it.kmitl.ac.th)
-<br><br><br><br>
+<br><br>
+
+<a href="https://www.it.kmitl.ac.th/~it61070230/ProjectAVG/index.html"><h2 id='web'>:triangular_flag_on_post: Go to Website :triangular_flag_on_post:</h2></a>
+<br><br>
 [![obj](https://img.shields.io/badge/Goto-Objective-red.svg)](#obj)
 [![graph](https://img.shields.io/badge/Goto-Graph-blue.svg)](#graph)
 [![author](https://img.shields.io/badge/Goto-Author-pink.svg)](#author)
@@ -16,8 +19,8 @@ Project นี้มีวัตถุประสงค์จัดทำขึ
 ซึ่งรวบรวมรายได้ทั้งหมดของครัวเรือน ทั้งรายได้จากอาชีพหลัก รายได้จากอาชีพรอง อาชีพเสริม<br> รายได้อื่น ๆ และรายได้ที่เกิดจากการทำ การปลูก การเลี้ยงและการหาไว้กินเอง (แล้วคิดคำนวณเป็นค่าเฉลี่ยของแต่ละปี)<br><br>
 <img src="Other img/slide.gif">
 
-<h2 id='graph'>Sample Graph :bar_chart:</h2><br>
 
+<h2 id='graph'>Sample Graph :bar_chart:</h2><br>
 <img src="graph/Northern.svg"><br>
 
 <h2 id='author'>Author :notebook_with_decorative_cover:</h2>

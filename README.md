@@ -10,8 +10,10 @@ Faculty of Information Technology, King Mongkut's Institute of Technology Ladkra
 <br><br>
 [![obj](https://img.shields.io/badge/Goto-Objective-red.svg)](#obj)
 [![graph](https://img.shields.io/badge/Goto-Graph-blue.svg)](#graph)
+[![con](https://img.shields.io/badge/Goto-Conclusion-yellow.svg)](#con)
 [![author](https://img.shields.io/badge/Goto-Author-pink.svg)](#author)
 [![cr](https://img.shields.io/badge/Goto-Credits-green.svg)](#cr)<br>
+
 
 <h2 id='obj'>Objective :dart:</h2> 
 
@@ -19,9 +21,12 @@ Project นี้มีวัตถุประสงค์จัดทำขึ
 ซึ่งรวบรวมรายได้ทั้งหมดของครัวเรือน ทั้งรายได้จากอาชีพหลัก รายได้จากอาชีพรอง อาชีพเสริม<br> รายได้อื่น ๆ และรายได้ที่เกิดจากการทำ การปลูก การเลี้ยงและการหาไว้กินเอง (แล้วคิดคำนวณเป็นค่าเฉลี่ยของแต่ละปี)<br><br>
 <img src="Other img/slide.gif">
 
-
 <h2 id='graph'>Sample Graph :bar_chart:</h2><br>
 <img src="graph/Northern.svg"><br>
+
+<h2 id='con'>Conclusion :bulb:</h2>
+
+จากแนวโน้มของแต่ละกราฟจะเห็นว่าโดยรวมภาคที่มีรายได้เฉลี่ยครัวเรือนประเทศไทยมากๆส่วนใหญ่จะเป็นภาคกลาง ซึ่งจากกราฟ 10 อันดับต้นรายได้เฉลี่ยครัวเรือนประเทศไทยมีภาคกลางอยู่ด้วยกัน ถึง 7 จังหวัด ส่วนใหญ่จังหวัดที่มีค่ารายได้เฉลี่ยต่อครัวเรือนสูงมักจะเป็นจังหวัดที่มีการท่องเที่ยวเป็นส่วนใหญ่ทำให้รายได้สูงตามไปด้วย และส่วนใหญ่ค่ารายได้เฉลี่ยต่อครัวเรือนเพิ่มขึ้นทุกปี
 
 <h2 id='author'>Author :notebook_with_decorative_cover:</h2>
 

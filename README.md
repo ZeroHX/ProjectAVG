@@ -11,6 +11,7 @@ Faculty of Information Technology, King Mongkut's Institute of Technology Ladkra
 [![obj](https://img.shields.io/badge/Goto-Objective-red.svg)](#obj)
 [![graph](https://img.shields.io/badge/Goto-Graph-blue.svg)](#graph)
 [![con](https://img.shields.io/badge/Goto-Conclusion-yellow.svg)](#con)
+[![res](https://img.shields.io/badge/Goto-Result-orange.svg)](#res)
 [![author](https://img.shields.io/badge/Goto-Author-pink.svg)](#author)
 [![cr](https://img.shields.io/badge/Goto-Credits-green.svg)](#cr)<br>
 
@@ -27,6 +28,10 @@ Project นี้มีวัตถุประสงค์จัดทำขึ
 <h2 id='con'>Conclusion :bulb:</h2>
 
 จากแนวโน้มของแต่ละกราฟจะเห็นว่าโดยรวมภาคที่มีรายได้เฉลี่ยครัวเรือนประเทศไทยมากๆส่วนใหญ่จะเป็นภาคกลาง ซึ่งจากกราฟ 10 อันดับต้นรายได้เฉลี่ยครัวเรือนประเทศไทยมีภาคกลางอยู่ด้วยกัน ถึง 7 จังหวัด ส่วนใหญ่จังหวัดที่มีค่ารายได้เฉลี่ยต่อครัวเรือนสูงมักจะเป็นจังหวัดที่มีการท่องเที่ยวเป็นส่วนใหญ่ทำให้รายได้สูงตามไปด้วย และส่วนใหญ่ค่ารายได้เฉลี่ยต่อครัวเรือนเพิ่มขึ้นทุกปี<br>
+
+<h2 id='res'>Result :key:</h2>
+
+ในผลการดำเนินการนั้น เราได้วิเคราะห์ข้อมูลเกี่ยวกับรายได้เฉลี่ยต่อเดือนต่อครัวเรือน จำแนกตามภาค และจังหวัด พ.ศ. 2541 - 2558 มีแนวโน้มที่เพิ่มสูงขึ้น-ลดลง เพื่อนำไปปรับใช้ในการลงทุนทางธุรกิจซึ่งหวังผลในระยะยาว หรือ การจัดการระบบทางเศรษฐกิจ และพร้อมรับมือกับสถานการณ์ในอนาคต
 
 <h2 id='author'>Author :notebook_with_decorative_cover:</h2>
 

@@ -1,5 +1,5 @@
 
-<h1 id='top' style="font-size:500px;">:money_with_wings: Average income Analyst (Project AVG) :money_with_wings:</h1>
+<h1 id='top' style="font-size:500px;">:money_with_wings: Average income Analysis (Project AVG) :money_with_wings:</h1>
 
 This project is part of subject Problem Solving in Information Technology (PSIT)<br>
 Faculty of Information Technology, King Mongkut's Institute of Technology Ladkrabang (KMITL).<br><br>

@@ -15,11 +15,6 @@ Faculty of Information Technology, King Mongkut's Institute of Technology Ladkra
 [![author](https://img.shields.io/badge/Goto-Author-pink.svg)](#author)
 [![cr](https://img.shields.io/badge/Goto-Credits-green.svg)](#cr)<br>
 
-<h3 id='status'>Status</h3>
-- [x] Graph
-- [x] Website
-- [x] Github
-- [ ] Video
 <h2 id='obj'>Objective :dart:</h2> 
 
 Project นี้มีวัตถุประสงค์จัดทำขึ้นเพื่อให้ผู้ที่สนใจได้ศึกษา วิเคราะห์ข้อมูลเกี่ยวกับรายได้เฉลี่ยต่อเดือน - ต่อครัวเรือน จำแนกตามภาค<br> และจังหวัด พ.ศ. 2541 - 2558

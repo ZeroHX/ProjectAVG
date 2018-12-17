@@ -44,6 +44,7 @@ Project นี้มีวัตถุประสงค์จัดทำขึ
 * Dataset: [รายได้เฉลี่ยต่อเดือนต่อครัวเรือน จำแนกตามภาค และจังหวัด พ.ศ. 2541 - 2558](https://data.go.th/DatasetDetail.aspx?id=7049410f-5bb8-4c75-9e94-112ca18b63e2) 
 
   [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/downloads/release/python-371/)
+     * **Python 3.7.1**
      * **Pandas**
      * **Pygal 2.4.0** <br><br>
 [![top](https://img.shields.io/badge/Goto-top-orange.svg?style=for-the-badge)](#top)
